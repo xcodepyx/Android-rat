@@ -28,11 +28,14 @@ File Manager
 
 – Set WallPaper 
 
- Location  
+ **Location**
+ 
 – Live Location 
- Live Screen Control 
+
+**Live Screen Control**
 – Show Screen Live 
 – Control Screen (VNC) 
+
 – Use Keyboard 
 – Lock / unlock screen 
 – Take silent screenshot 
