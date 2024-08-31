@@ -282,13 +282,13 @@ Automatic USDT Stealer
 
 – Added blocking addresses for Binance exchanges(When a user transfers money to someone else, the address and the entire balance set by the rat are replaced and the user is unaware) 
 
-Disable cell phone background cleaning. 
+- Disable cell phone background cleaning. 
 
-support : Trust wallet- Binance-okx -imToken -metamask - gate- tokenpocket- crypto 
+- support : Trust wallet- Binance-okx -imToken -metamask - gate- tokenpocket- crypto 
 
-Adapted to the latest version of Alipay and wechat payment password records 
+- Adapted to the latest version of Alipay and wechat payment password records 
 
-Hide icon function after uninstall (when victom try to uninstall app it's hidden) 
+- Hide icon function after uninstall (when victom try to uninstall app it's hidden) 
 
 
 
