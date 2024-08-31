@@ -15,12 +15,19 @@ File Manager
 – Download/Upload 
 
 – Secure Delete Options 
+
 – Thumbnail/Gallery view 
+
 – Advanced search 
+
 – Copy/Paste 
+
 – Decrypt/Decode 
+
 – Hidden / Unhidden File 
+
 – Set WallPaper 
+
  Location  
 – Live Location 
  Live Screen Control 
