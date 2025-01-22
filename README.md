@@ -4,7 +4,7 @@
 Remote Administration Tool for Android Complete Backdoor Access To Android Devices 
 
 Website : https://xcodepyx.com/    
-Telegram : @codepyx  
+Telegram : https://t.me/xcodepyx
 
 The xcodepy AndriodRAT is a fully functioning remote access tool that uses a reverse shell to access a device. This tool can be made to be persistent, meaning that access to a remote andriod device can be maintained even after restarting the device. The AndriodRAT can also be made to be non-persistent, no traces will be left behind after the device is powered off.
 
